@@ -14,4 +14,4 @@ Xilinx Toolchain: Vivado 2022.1, Vitis HLS 2022.1
 
 ## AI-Generated Code Disclosure
 
-Some parts of this code were generated using ChatGPT. These AI-assisted sections were reviewed and refined to ensure correctness.
+Some parts of this code were generated using ChatGPT.
