@@ -1,9 +1,10 @@
 # FPGA_ML_Temp
 
+## Description
 This repository contains a PyTorch-based ResNet model, C++ template implementations of various PyTorch functions, and verification scripts. 
 It is designed for deep learning model deployment on FPGA platforms.
 
-# Environment Setup
+## Environment Setup
 
 Python: 3.12.8
 
