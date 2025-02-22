@@ -11,3 +11,7 @@ Python: 3.12.8
 C++ Compiler: Apple clang version 16.0.0 (clang-1600.0.26.6)
 
 Xilinx Toolchain: Vivado 2022.1, Vitis HLS 2022.1
+
+## AI-Generated Code Disclosure
+
+Some parts of this code were generated using ChatGPT. These AI-assisted sections were reviewed and refined to ensure correctness.
