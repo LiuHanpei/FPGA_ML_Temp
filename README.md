@@ -5,7 +5,7 @@ This repository contains Python and C++ implementations of fundamental deep lear
 - Batch Normalization  
 - Activation Functions (ReLU, Tanh)  
 - Fully Connected (Linear) Layers  
-- Standard & Depthwise Convolutions  
+- Standard & Depthwise Convolutions
 Each operation is implemented in Python (for generating test data and reference results) and in C++ (for efficient computation, designed for FPGA deployment with HLS optimizations).  
 
 ## Environment Setup
