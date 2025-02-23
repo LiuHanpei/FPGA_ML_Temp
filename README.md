@@ -9,9 +9,9 @@ This repository contains Python and C++ implementations of fundamental deep lear
 Each operation is implemented in Python (for generating test data and reference results) and in C++ (for efficient computation, designed for FPGA deployment with HLS optimizations).  
 
 ## Environment Setup
-Python: 3.12.8  
-C++ Compiler: Apple clang version 16.0.0 (clang-1600.0.26.6)  
-Xilinx Toolchain: Vivado 2022.1, Vitis HLS 2022.1  
+- Python: 3.12.8  
+- C++ Compiler: Apple clang version 16.0.0 (clang-1600.0.26.6)  
+- Xilinx Toolchain: Vivado 2022.1, Vitis HLS 2022.1  
 
 ## FPGA Implementations
 - Implement the same functions as Python, but in a hardware-friendly manner.  
