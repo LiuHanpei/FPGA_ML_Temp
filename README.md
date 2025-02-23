@@ -14,8 +14,8 @@ C++ Compiler: Apple clang version 16.0.0 (clang-1600.0.26.6)
 Xilinx Toolchain: Vivado 2022.1, Vitis HLS 2022.1  
 
 ## FPGA Implementations
-  Implement the same functions as Python, but in a hardware-friendly manner.  
-  The first function in each C++ file is the core operation (e.g., batch_norm(), relu(), conv2d()).  
+- Implement the same functions as Python, but in a hardware-friendly manner.  
+- The first function in each C++ file is the core operation (e.g., batch_norm(), relu(), conv2d()).  
   The remaining code is for loading input data, running the function, and saving the output for comparison.  
   No HLS-specific pragmas are included, they can be optimize based on available FPGA resources.  
 
