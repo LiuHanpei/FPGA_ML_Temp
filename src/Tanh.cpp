@@ -6,6 +6,7 @@
 // - LUT length 512:  MSE Error = 0.0002050189
 // - LUT length 1024: MSE Error = 0.0000431783
 // - LUT length 2048: MSE Error = 0.0000054822
+// @note In actual FPGA deployment, users should precompute the lookup table (LUT) and load it onto the FPGA。
 
 #include <iostream>
 #include <fstream>
